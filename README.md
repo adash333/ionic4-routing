@@ -3,7 +3,7 @@
 このページは、[Ionic 4/Angular Tutorial - Ionic 4 Router (Routing and Navigation Example)](https://www.techiediaries.com/ionic-4-angular-routing/)と、[How to integrate Firebase with Angular 6 – AngularFire2 V5](https://grokonez.com/frontend/angular/how-to-integrate-angular-6-firebase-tutorial-angularfire2-v5)を参考に、ionic4アプリ作成の練習を行っているものです。
 
 
-src/environments/environment.ts は、ご自身で作成して、ご自身のfirebaseのAPIキーその他をコピペしてください。
+src/environments/environment.ts は、ご自身のfirebaseのAPIキーその他をコピペしてください。
 
 ```javascript:environment.ts
 // <>となっている部分は、自分のapiKeyを入力
@@ -53,7 +53,7 @@ Android Studio 3.0.1
 Node v8.11.2
 npm 6.1.0
 Ionic (Ionic CLI) 4.0.1
-Ionic4.0.0-beta.0
+@ionic/angular 4.0.0-beta.0
 
 typings@2.1.1
 typescript@2.9.2
