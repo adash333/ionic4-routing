@@ -53,6 +53,7 @@ Android Studio 3.0.1
 Node v8.11.2
 npm 6.1.0
 Ionic (Ionic CLI) 4.0.1
+Ionic4.0.0-beta.0
 
 typings@2.1.1
 typescript@2.9.2
